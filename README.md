@@ -2,5 +2,6 @@
 Login Page
 
 
+Example
 
-link1[] = https://imgur.com/a/YhXzn2f
+[link1] = https://imgur.com/a/YhXzn2f
